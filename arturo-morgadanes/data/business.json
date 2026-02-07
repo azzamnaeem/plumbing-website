@@ -1,0 +1,51 @@
+{
+  "name": "Arturo Morgadanes",
+  "title": "Fontanero Profesional",
+  "tagline": "Fontanero de confianza en Vigo y alrededores",
+  "url": "https://arturomorgadanes.es",
+  "contact": {
+    "phone": "+34 666 123 456",
+    "whatsapp": "34666123456",
+    "email": "info@arturomorgadanes.es",
+    "address": "Vigo, Pontevedra, Galicia"
+  },
+  "hours": {
+    "weekdays": "08:00 - 20:00",
+    "saturday": "09:00 - 14:00",
+    "sunday": "Urgencias 24h"
+  },
+  "stats": {
+    "experience": 15,
+    "jobsCompleted": 2000,
+    "googleReviewScore": 4.9,
+    "googleReviewCount": 127
+  },
+  "certifications": [
+    "Carnet de instalador autorizado",
+    "Seguro de responsabilidad civil"
+  ],
+  "serviceArea": {
+    "radius": "30 km desde Vigo",
+    "coordinates": {
+      "latitude": 42.2406,
+      "longitude": -8.7207
+    }
+  },
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": ""
+  },
+  "keywords": [
+    "arturo morgadanes",
+    "fontanero vigo",
+    "fontanero urgente vigo",
+    "desatascos vigo",
+    "fontanería vigo",
+    "reparación fugas vigo",
+    "fontanero pontevedra",
+    "fontanero 24 horas vigo",
+    "fontanero profesional vigo",
+    "plumber vigo"
+  ]
+}
